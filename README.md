@@ -19,12 +19,9 @@ Automatização da classificação de variedades de grãos de trigo (Kama, Rosa 
 - Scikit-learn
 - Google Colab
 
-## Notebook Online
-Você pode abrir e executar o notebook direto no Google Colab clicando [aqui](https://colab.research.google.com/drive/1CzPCl0eUkq5RmRuhZye0xcUmGLPJAqOx#scrollTo=-H_Ryr4vvJZy).
-
 ## Como usar
-1. Faça upload do arquivo `seeds_dataset.txt`
-2. Execute as células do notebook
-3. O modelo otimizado será salvo como `random_forest_otimizado.joblib`
+1. No Google Colab, baixe o arquivo `seeds_dataset.txt` diretamente do GitHub executando a célula abaixo:
 
----
+```python
+!wget https://raw.githubusercontent.com/Amand95/mplementando-algoritmos-de-Machine-Learning-com-Scikit-learn-/main/seeds_dataset.txt
+
