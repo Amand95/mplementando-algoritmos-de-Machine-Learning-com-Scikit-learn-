@@ -26,4 +26,9 @@ Automatização da classificação de variedades de grãos de trigo (Kama, Rosa 
 
 ---
 
+## Notebook Online
+Você pode abrir e executar o notebook direto no Google Colab clicando [aqui](https://colab.research.google.com/drive/1CzPCl0eUkq5RmRuhZye0xcUmGLPJAqOx#scrollTo=-H_Ryr4vvJZy).
+
+
+
 
